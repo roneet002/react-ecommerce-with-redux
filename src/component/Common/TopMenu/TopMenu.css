@@ -1,0 +1,23 @@
+/* 
+
+.bg-rose-500 {
+    background-color: #f43f5e;
+} */
+
+.logo{
+    width: 52px;
+}
+.bi {
+    vertical-align: -0.125em;
+    fill: currentColor;
+}
+.nav-item .active{
+color: tomato;
+}
+.badge{
+    background-color: tomato;
+}
+
+.z-1{
+    z-index: 1000;
+}

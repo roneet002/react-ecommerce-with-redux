@@ -1,0 +1,10 @@
+
+.search-btn{
+    border:0;
+    background-color: transparent;
+    right: 7px;
+    top: 7px;}
+
+
+.small-width{transition:all ease-in-out 0.5s;width:30%}
+.large-width{transition:all ease-in-out 0.5s;width:50%}

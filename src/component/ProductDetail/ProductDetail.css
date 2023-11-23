@@ -1,0 +1,70 @@
+
+
+.detailImg{
+    background-color: #fff;
+    position: relative;
+}
+.detailImg img{
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+}
+.discount{
+    /* position: absolute;
+    top:0;
+    right:0; */
+    background-color: #6f11f5;
+    color: #fff;
+    border-radius: 20px;
+    padding:2px 20px;
+    font-size: 15px;
+
+}
+.bgwhite{
+    background-color: #fff;
+    position: relative;
+    padding: 20px;
+    height: 100%;
+}
+.bgwhite .primaryBtn{
+    padding: 10px;
+    font-size: 20px;
+    width:250px;
+    margin:0
+}
+.bgwhite h1{
+    font-size: 20px;
+    padding-left: 0;
+}
+
+.qty__container{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.qty__container span{
+    margin-right:15px
+}
+.btn__group {
+    border: 1px solid #ededed;
+    display: flex;
+    align-items: center;
+    width: 120px;
+    margin: 0;
+}
+
+.btn__group .minus{
+    width: 50px;
+    font-size: 25px;
+    line-height: 25px;
+    margin: 0;
+}.btn__group .plus{
+    width: 50px;
+    font-size: 17px;
+    line-height: 25px;
+    margin: 0;
+}
+
+.price{
+    font-size: 18px;
+}
